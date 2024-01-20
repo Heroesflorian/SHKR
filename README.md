@@ -63,7 +63,7 @@ Ein besonderes Dankeschön an: Heroesflorian, Monsterfish_ und Nevikov
 
 # Bekannte Bugs
 ### Original
-- M14: Spiel stürzt ab, sobald man das Wild mit Jägern ausrottet. Lasst min. einen Hirsch leben.
+- M14: Spiel stürzt ab, sobald man das Wild mit Jägern ausrottet. Lasst mindestens einen Hirsch leben (oder erlegt den letzten mit Bogenschützen).
 ### Definitve Edition
 - M06: Map-Raster ist komplett im Eimer => unspielbar
 - M10: Burg wird nicht übernommen => unspielbar
@@ -108,7 +108,7 @@ SHKR is way harder than the original campaign but always possible on Very Hard *
 
 # KNOWN BUGS
 ### Original
-- Overhunting in M14 causes SH1 to crash. Let at least one deer live to prevent a crash.
+- Overhunting in M14 causes SH1 to crash. Let at least one deer live to prevent a crash (or shoot it with soldiers instead of hunters).
 
 ### Definitive Edition
 - M06: Well, um, I think you see the problem => unplayable
