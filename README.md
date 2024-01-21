@@ -1,21 +1,17 @@
 # SHKR
-SHKR ist ein Remaster der SH1-Miltärkampagne und kann (teilweise) als Invasion oder als Ersatz für das Original gespielt werden (empfohlen).
+SHKR (StrongHold-Kampagnen-Remaster) ist ein Remaster der SH1-Miltärkampagne und kann (teilweise) als Invasion oder als Ersatz für das Original gespielt werden (empfohlen).
 
 
 
 # INSTALLATION
 
-Ladet zunächst die Karten hier herunter (klickt auf den grünen "Code"-Button und dann auf "Download ZIP" - die runtergeladene ZIP beinhaltet dann alle Maps).
+Ladet zunächst die Karten hier herunter (klickt auf den grünen "Code"-Button und dann auf "Download ZIP").
 
-Ihr könnt SHKR entweder als Ersatz der Originalkampagne (empfohlen), oder als normale Invasionen spielen. Dazu müsst ihr jeweils folgendes tun:
+Die SHKR-Karten sind als Ersatz für die Originalkarten der Stronghold1-Militärkampagne konzipiert, und sollten entsprechend im Rahmen der Kampagne gespielt werden. \
+Dafür ersetzt ihr einfach die Originalkarten "**`mission0.map`**" bis "**`mission21.map`**" in eurem Stronghold-Installationsverzeichnis (typischerweise **`Program Files/Firefly Studios/Stronghold/maps`**, bzw. **`Program Files/Steam/steamapps/Stronghold HD/maps`** bei der Steamversion) durch die gleichnamigen Karten im "**`Remaster`**"-Ordner. \
+(Erstellt am besten vorher eine Sicherheitskopie der Vanilla-Karten. Für den Notfall liegt dem SHKR-Paket im Ordner **`vanilla_backup`** allerdings auch eine solche bei.)
 
-- Die Maps mit dem Namen "mission0", "mission1" usw. ersetzten die originalen Missionen und müssen in **Program Files/Firefly Studios/Stronghold/maps** bzw. in **Program Files/Steam/steamapps/Stronghold HD/maps** bei der Steamversion. Ersetzt dann im jeweiligen Ordner die Originalkarten mit den Remaster-Maps.
-Vergesst nicht eine Sicherheitskopie der Vanilla-Karten zu erstellen.
-
-- Die Maps mit dem Namen "SHKR-Mission-01" usw. in den ganz normalen maps-Ordner in **Dokumente/Stronghold/Maps**. Dann als normale Invasion spielen.
-Beachtet, dass die Maps auf die Kampagne angepasst sind und gerade die Story-Inszenierung viel vom Charme ausmacht.
-
-Entscheidet euch einfach für eine Variante und schon kann es losgehen!
+Fertig! Jetzt könnt ihr direkt loslegen und spielen.
 
 # SCHWIERIGKEITSGRAD
 
@@ -83,13 +79,11 @@ Ein besonderes Dankeschön an: Heroesflorian, Monsterfish_ und Nevikov
 SHKR is a Remaster of the military camapign for Stronghold 1 which can be played as normal invasionmaps or as a replacement for the original campaign from Firefly (recommended).
 
 # HOW TO INSTALL
-Download the maps (click on the green "Code"-Button and then "Download ZIP).
+First, download the maps here (click on the green "Code"-Button and then "Download ZIP).
 
-Then choose one of the following:
-
-- To play the campaing as replacement for the original (recommended), put the maps "mission0", "mission1" and so on, in the folder "maps" in **Program Files/Firefly Studios/Stronghold/maps** / or **Program Files/Steam/steamapps/Stronghold HD/maps** if you use the Steam-Edition. Exchange the original maps with my versions. Don't forget a backup of the originals.
-
-- To play the missions as normal invasions, put the maps "SHKR-Mission-01" and so on, in **Documents/Stronghold/Maps**. This is not recommended as the maps are made especially as a replacement for the original.
+The SHKR maps are designed as replacement for the original maps of the Stronghold 1 military campaign, and should thusly be played in the context of the campaign. \
+To do so, simply replace the original map files "**`mission0.map`**" to "**`mission21.map`**" in your Stronghold installation directory (typically **`Program Files/Firefly Studios/Stronghold/maps`**, or **`Program Files/Steam/steamapps/Stronghold HD/maps`** respectively for the Steam version) with the corresponding maps in the "**`Remaster`**" folder. \
+(Ideally, create a backup copy of the vanilla maps first. In case of need, the SHKR pack also contains one in the **`vanilla_backup`** folder, though.)
 
 And that is it. After that you can start playing right away.
 
