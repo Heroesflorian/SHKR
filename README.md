@@ -1,8 +1,6 @@
 # SHKR
 SHKR (StrongHold-Kampagnen-Remaster) ist ein Remaster der SH1-Miltärkampagne und kann (teilweise) als Invasion oder als Ersatz für das Original gespielt werden (empfohlen).
 
-
-
 # INSTALLATION
 
 Ladet zunächst die Karten hier herunter (klickt auf den grünen "Code"-Button und dann auf "Download ZIP").
@@ -41,8 +39,26 @@ Hier ein paar Hinweise bezüglich des Gameplays:
 
 
 # DANKSAGUNG
+**Hauptbeteiligte:** 
+- Karl/HerzogAndrean: Initiator des Projekts, Umsetzung der Karten, Planung (insbesondere M1-12, M14, M16, M19), Prototyping, Haupt-Testing
 
-Ein besonderes Dankeschön an: Heroesflorian, Monsterfish_ und Nevikov
+- Heroesflorian: Erstellung neuer Karteneditor-Tools (ab M13/14 verwendet), Planung (insbesondere M7, M10, M13-15, M17-21) und Missionskonzepte (M13-15, 17, 18, 20), Recherche, Prototyping, Testing 
+
+- Monsterfish_: Planung (insbesondere M12, M14, M17, M20-21) und Missionskonzepte (M17, M20, M21 für beide Versionen), Recherche, Prototyping, Testing, Umsetzung M21 (Monsterfish-Version)
+
+**Honorable Mentions**
+- Nevikov: Projekt-Discord, Testing
+- Zarentreuer Lenin: Feedback, Prototyping/Testing für M21
+- UCP-Team (Corax, WalrusGrease): Grundlagen/Unterstützung für Tools
+- bm_backfisch: Testing
+- Crusader Pilaw: Testing
+
+**Ergänzende Erläuterung**
+- Die Hauptbeteiligten waren in die generelle Planung bei den meisten Missionen irgendwie involviert, einzeln aufgelistet sind oben daher die Schwerpunkte für die einzelnen Missionen. 
+- Prototyping = einzelne Bestandteile auf Testkarten vorbauen, um Optik oder Funktionalität zu iterieren
+- Konzepte = detaillierte Kartenskizzen und Notizen, quasi eine Art "Masterplan" für die Umsetzung einer Mission
+- Umsetzung = Ausgestaltung der Missionskarten im Editor
+
 
 # HÄUFIGE FRAGEN
 
@@ -112,8 +128,26 @@ SHKR is way harder than the original campaign but always possible on Very Hard *
 I recommend using the original version of SH1 or HD.
 
 # CREDITS
+**Main participants:** 
+- Karl/HerzogAndrean: Initiator of the project, implementation of the maps, planning (especially M1-12, M14, M16, M19), prototyping, main testing
 
-Special thanks to Heroesflorian, Monsterfish_ und Nevikov
+- Heroesflorian: Creation of new map editor tools (used from M13/14), planning (especially M7, M10, M13-15, M17-21) and mission concepts (M13-15, 17, 18, 20), research, prototyping, testing 
+
+- Monsterfish_: Planning (especially M12, M14, M17, M20-21) and mission concepts (M17, M20, M21 for both versions), research, prototyping, testing, implementation M21 (Monsterfish version)
+
+**Honorable Mentions**
+- Nevikov: Project Discord, Testing
+- Czar Lenin: Feedback, prototyping/testing for M21
+- UCP team (Corax, WalrusGrease): Basics/support for tools
+- bm_backfisch: Testing
+- Crusader Pilaw: Testing
+
+**Supplementary explanation**
+- The main participants were involved in the general planning of most missions in some way, so the focal points for the individual missions are listed above. 
+- Prototyping = pre-build individual components on test maps to iterate visuals or functionality
+- Concepts = detailed map sketches and notes, a kind of "master plan" for the implementation of a mission
+- Implementation = building the mission maps in the editor
+
 
 # SUPPORT
 
