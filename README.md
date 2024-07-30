@@ -137,7 +137,7 @@ I recommend using the original version of SH1 or HD.
 
 **Honorable Mentions**
 - Nevikov: Project Discord, Testing
-- Czar Lenin: Feedback, prototyping/testing for M21
+- Zarentreuer Lenin: Feedback, prototyping/testing for M21
 - UCP team (Corax, WalrusGrease): Basics/support for tools
 - bm_backfisch: Testing
 - Crusader Pilaw: Testing
